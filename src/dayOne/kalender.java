@@ -12,7 +12,7 @@ public class kalender {
 	public static ArrayList<Integer> liste;
 	
 	public static void main (String[] args){
-		//ladeDatei();
+		ladeDatei();
 		//sucheDreiZahlen();
 	}
 	
