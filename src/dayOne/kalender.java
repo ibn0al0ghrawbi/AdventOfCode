@@ -13,7 +13,7 @@ public class kalender {
 	
 	public static void main (String[] args){
 		ladeDatei();
-		//sucheDreiZahlen();
+		sucheDreiZahlen();
 	}
 	
 	public static void ladeDatei(){
@@ -21,7 +21,7 @@ public class kalender {
 		
 		Scanner scan = null;
 		try{
-			scan = new Scanner(new File("C:/Users/Graubi/Documents/AdventOfCode/input.txt"));
+			scan = new Scanner(new File("C:/Users/Graubi/eclipse-workspace/AdventOfCode/puzzleInput/tag1.txt")); // PFad aufpassen
 		} catch (FileNotFoundException e){
 			e.printStackTrace();
 		}
