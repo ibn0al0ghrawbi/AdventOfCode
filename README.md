@@ -1,2 +1,4 @@
 # AdventOfCode
-Coding Puzzles aus dem Adventskalender 2020 (https://adventofcode.com/2020)
+Coding Puzzles (https://adventofcode.com/2020)
+
+(incomplete) PHP-samples available in subfile
